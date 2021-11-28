@@ -4,9 +4,6 @@
   "version": "0.1.0",
   "unity": "2020.3",
   "description": "A RuleTile Variant, supporting string tags and 4 collections.",
-	"dependencies": {
-		"com.unity.2d.tilemap.extras": 1.8.1-preview
-	},
   "keywords": [
     "unity",
 	"unity3d",
@@ -14,6 +11,9 @@
     "fakefriend24",
     "utility"
   ],
+	"dependencies": {
+		"com.unity.2d.tilemap.extras": "1.8.1-preview"
+	},
   "homepage": "https://github.com/fakefriend24/rule-tile-variant.git",
   "bugs": {
     "url": "https://github.com/fakefriend24/rule-tile-variant/issues"

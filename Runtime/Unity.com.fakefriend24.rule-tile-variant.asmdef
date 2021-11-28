@@ -1,6 +1,9 @@
 {
     "name": "Unity.com.fakefriend24.rule-tile-variant",
-    "references": [],
+    "rootNamespace": "",
+    "references": [
+        "GUID:613783dc1674e844b87788ea74ede0f6"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
@@ -8,6 +11,12 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.2d.tilemap.extras",
+            "expression": "",
+            "define": ""
+        }
+    ],
     "noEngineReferences": false
 }

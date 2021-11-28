@@ -1,6 +1,11 @@
 {
     "name": "Unity.com.fakefriend24.rule-tile-variant.Editor",
-    "references": [],
+    "rootNamespace": "",
+    "references": [
+        "GUID:cbdf09464b6b87745be748a67e5a21a0",
+        "GUID:4715ff5b357d0d2418342f961d05c69d",
+        "GUID:613783dc1674e844b87788ea74ede0f6"
+    ],
     "includePlatforms": [
         "Editor"
     ],
