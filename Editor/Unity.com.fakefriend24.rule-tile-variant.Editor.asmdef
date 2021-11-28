@@ -1,5 +1,5 @@
 {
-    "name": "Unity.com.{{COMPANY}}.{{REPOSITORY_NAME}}.Editor",
+    "name": "Unity.com.fakefriend24.rule-tile-variant.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
